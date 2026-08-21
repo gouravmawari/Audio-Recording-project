@@ -1,0 +1,12 @@
+.env
+node_modules/
+consult_backend/uploads/
+consultBea_frontend/dist/
+coverage/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
